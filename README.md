@@ -186,8 +186,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Ensure output directory is within your Obsidian vault
 - Try refreshing Obsidian's file explorer
 
-### Support
-
-If you encounter issues or have suggestions, please [open an issue](https://github.com/yourusername/raindrops-to-obsidian-clipper/issues) on GitHub.
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/7970958/aa987efd-989e-4d9a-9136-91c6ccb928e2/raindrops-to-obsidian-clipper.py
